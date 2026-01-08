@@ -6,7 +6,7 @@
 }
 .first-container{
  
-  max-width: 1600px%;
+  max-width: 1600px;
   width: 71%;
   display: flex;
   justify-content: space-between  ;
@@ -17,7 +17,7 @@
 
 }
 .first-container .img{
-  width: 800px;
+  width: 900px;
 }
 
 .first-container .content h1{
@@ -87,6 +87,7 @@
     margin-left: 230px;
     margin-right: 230px;
     align-items: center;
+    margin: 0 auto;
   }
   .lebel{
     justify-content: center;
@@ -117,6 +118,7 @@
     align-items: center;
     margin-left: 230px;
     margin-right: 230px;
+    margin: 0 auto;
   }
   .gradient{
     position: absolute;
@@ -133,6 +135,7 @@
     padding-left: 64px;
     color: white;
     z-index: 2;
+    margin-top: 59px;
 
   }
   .banner-content button{
@@ -142,4 +145,65 @@
     color: #F15B22;
     background-color: white;
     cursor: pointer;
+    margin-bottom: 59px;
   }
+  .footer{
+    background-color: #151414;
+    width: 1600px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 130px;
+    display: flex;
+  }
+  .Future{
+    width: 485px;
+    margin-top: 130px;
+    margin-right: 331px;
+    margin-bottom: 130px;
+    margin-left: 230px;
+  }
+  .Future h1{
+    font-size: 45px;
+    font-weight: bold;
+    width: 148px;
+    color: #FFFFFF;
+  }
+  .Future p{
+    font-size: 16px;
+    color: #FFFFFF;
+    width: 485px;
+    line-height: 26px;
+  }
+  .Future img{
+    gap: 17px;
+    width: 47px;
+  }
+  .email{
+    width: 325px;
+    margin-top: 130px;
+    margin-right: 230px;
+    color: white;
+    margin: 0 auto;
+  }
+.email h3{
+  width: 123px;
+  font-size: 25;
+
+}
+
+    .email input{
+      width: 325px;
+      height: 64px;
+      background-color: #151414;
+      font-size: 18px;
+      
+    }
+    .email button{
+      width: 170px;
+      height: 64px;
+      color: #F15B22;
+      background-color: white;
+      border-radius: 8px;
+      margin-top: 16px;
+    }
