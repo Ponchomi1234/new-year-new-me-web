@@ -1,0 +1,80 @@
+
+.font-work-sans{
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.first-container{
+ 
+  max-width: 1600px%;
+  width: 71%;
+  display: flex;
+  justify-content: space-between  ;
+  margin:0 0;
+  align-items: center;  
+      
+ 
+
+}
+.first-container .img{
+  width: 800px;
+}
+
+.first-container .content h1{
+  width: 525px;
+  font-size: 65px;
+  color: #151414; 
+
+}
+.first-container .content p{
+  
+  font-size: 16px;
+  
+  color: #444343;
+  line-height: 24px;
+}
+.btn{
+  width: 160px ;
+  height: 64px;
+  color:white;
+  background-color: #F15B22;
+  border-radius: 5px;
+  border: none;
+ align-items: flex-end;
+}
+.lesson{
+  display: flex;
+  align-items: center;
+
+}
+.pic{
+  width: 579px;
+  margin-top: 131px;
+  margin-left: 206px;
+  margin-right: 87px;
+}
+.para{
+  width: 416px;
+  height: 400px;
+  margin-top: 370px;
+  margin-left: 87px;
+  margin-right: 322px;
+}
+.para h2{
+  width: 288px;
+  font-size: 40px;
+  color: #151414;
+}
+.para p{
+  width: 416px;
+  font-size: 16px;
+  color: #444343;
+  margin-top: 24px;
+}
+.para ul{
+  width: 349px;
+  color: #444343;
+  font-size: 16px;
+  margin-top: 16px;
+}
+  
